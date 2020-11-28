@@ -71,6 +71,13 @@ swiper image {
 }
 
 .post-like-image {
+    height: 12px;
+    width: 12px;
+    margin-right: 8px;
+    vertical-align: middle;
+}
+
+.post-view-image{
     height: 16px;
     width: 16px;
     margin-right: 8px;
